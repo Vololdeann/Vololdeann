@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Olivier</h1>
-<h3 align="left">I'm a junior Full-Stack Developer with an extensive background in script writing and film development. Recently graduated from Le Wagon intensive Web Development bootcamp to discover a new universe. Looking forward to bringing my narrative-centric mindset to web apps development and collaborating with creative and dynamic teams.</h3>
+<h1 align="left">Hi, I'm Olivier 👋</h1>
+<p align="left">I'm a junior Full-Stack Developer with an extensive background in script writing and film development. Recently graduated from Le Wagon intensive Web Development bootcamp to discover a new universe. Looking forward to bringing my narrative-centric mindset to web apps development and collaborating with creative and dynamic teams.</p>
 
 <p align="left">My bootcamp projects:</p>
 <ul>
